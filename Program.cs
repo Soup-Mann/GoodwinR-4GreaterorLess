@@ -17,24 +17,6 @@ while (stop != "no")
 
     Console.WriteLine("");
 
-    // Console.WriteLine("GREATER THAN OR LESS THAN");
-    // Console.WriteLine("");
-
-    // Console.WriteLine("Please Enter a number!");
-
-    // string thisnumber = Console.ReadLine();
-    // Console.WriteLine("");
-    // Console.WriteLine("Please Enter a second number!");
-
-    //The string is defined here as "Thatnumber"
-    //string thatnumber = Console.ReadLine();
-
-    //The string is then plugged in here to convert it to a int 
-    //which means you must rename it (string plugged in on right)
-    //and new int comes out on left
-    // int thisnumbertwo = Convert.ToInt32(thisnumber);
-    // int thatnumbertwo = Convert.ToInt32(thatnumber);
-
     while (farmman == false)
     {
         Console.WriteLine("Please Enter a number!");
